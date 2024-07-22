@@ -14,6 +14,10 @@ For more details about the game Sedmice, its rules, and strategies, please refer
 
 The DQN agent is trained against an opponent that plays random, always legal moves.
 
+### Environment
+
+The custom environment was created using the `gym` library to simulate the game of Sedmice. This environment manages the game state, defines the actions, and provides the observation space required for the agent.
+
 The reward structure used during training:
 
 - **Valid move**: +5 points

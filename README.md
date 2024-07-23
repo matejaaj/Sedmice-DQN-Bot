@@ -80,4 +80,4 @@ The agent generally performs well, winning a majority of the games. However, it 
 
 ### Playing the Game in Console
 
-To play the game in the console, you can use the `console_test_env.py` script
+To play the game against random bot in the console, you can use the `console_test_env.py` script
